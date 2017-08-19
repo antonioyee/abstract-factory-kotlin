@@ -12,7 +12,7 @@ interface PizzaIngredientFactory {
 
 	fun createCheese() : Cheese
 
-	fun createVeggies() : Veggies
+	fun createVeggies() : Array<Veggies>
 
 	fun createPepperoni() : Pepperoni
 
