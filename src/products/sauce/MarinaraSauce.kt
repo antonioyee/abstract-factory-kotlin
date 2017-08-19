@@ -1,15 +1,15 @@
-package products
+package products.sauce
 
-import `factory-pizzas`.Dough
+import `factory-pizzas`.Sauce
 
 /**
  * Created by Antonio Yee <yee.antonio@gmail.com> on 19/08/17.
  */
 
-class ThinCrustDough : Dough {
+class MarinaraSauce : Sauce {
 
 	override fun toString(): String {
-		return "Thin Crust Dough"
+		return "Marinara Sauce"
 	}
 
 }

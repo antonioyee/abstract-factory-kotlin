@@ -1,4 +1,4 @@
-package products
+package products.sauce
 
 import `factory-pizzas`.Sauce
 

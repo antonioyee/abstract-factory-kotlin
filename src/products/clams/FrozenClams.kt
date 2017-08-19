@@ -1,4 +1,4 @@
-package products
+package products.clams
 
 import `factory-pizzas`.Clams
 

@@ -1,4 +1,4 @@
-package products
+package products.cheese
 
 import `factory-pizzas`.Cheese
 
@@ -6,10 +6,10 @@ import `factory-pizzas`.Cheese
  * Created by Antonio Yee <yee.antonio@gmail.com> on 19/08/17.
  */
 
-class ReggianoCheese : Cheese {
+class MozzarellaCheese : Cheese {
 
 	override fun toString(): String {
-		return "Reggiano Cheese"
+		return "Shredded Mozzarella"
 	}
 
 }

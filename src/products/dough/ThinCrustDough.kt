@@ -1,15 +1,15 @@
-package products
+package products.dough
 
-import `factory-pizzas`.Cheese
+import `factory-pizzas`.Dough
 
 /**
  * Created by Antonio Yee <yee.antonio@gmail.com> on 19/08/17.
  */
 
-class MozzarellaCheese : Cheese {
+class ThinCrustDough : Dough {
 
 	override fun toString(): String {
-		return "Shredded Mozzarella"
+		return "Thin Crust Dough"
 	}
 
 }
