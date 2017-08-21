@@ -1,6 +1,6 @@
 package products.dough
 
-import `factory-pizzas`.Dough
+import factorypizzas.Dough
 
 /**
  * Created by Antonio Yee <yee.antonio@gmail.com> on 19/08/17.

@@ -1,6 +1,6 @@
 package products.veggies
 
-import `factory-pizzas`.Veggies
+import factorypizzas.Veggies
 
 /**
  * Created by Antonio Yee <yee.antonio@gmail.com> on 19/08/17.

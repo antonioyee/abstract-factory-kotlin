@@ -1,6 +1,6 @@
 package products.pepperoni
 
-import `factory-pizzas`.Pepperoni
+import factorypizzas.Pepperoni
 
 /**
  * Created by Antonio Yee <yee.antonio@gmail.com> on 19/08/17.

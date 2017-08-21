@@ -1,6 +1,6 @@
 package factories
 
-import `factory-pizzas`.*
+import factorypizzas.*
 import products.cheese.MozzarellaCheese
 import products.clams.FrozenClams
 import products.dough.ThickCrustDough
